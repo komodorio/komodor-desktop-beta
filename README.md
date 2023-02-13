@@ -17,5 +17,5 @@ In order to use the app, you need:
 If you're experiencing unexpected behavior from the app, please try the following:
 1. Trigger an app refresh - `ctrl` (or `cmd`) + `R` to 
 1. Fully restart the app - close and re-open the app using the tray icon
-1. Contact us via intercom
+1. Contact us via Intercom (can be found on the bottom-right corner)
 1. Contact us via email on ben.rosenfeld@komodor.com
