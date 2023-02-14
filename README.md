@@ -3,10 +3,19 @@ This repository holds early-access releases for Komodor Desktop.
 We are updating this repository regularly with new versions.
 
 ## How to install
-1. Download the appropriate version for your computer from the list below:
-   1. [MacOS (Intel)](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/KomodorBetaIntel.dmg)
-   1. [MacOS (M1/M2)](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/KomodorBetaM1.dmg)
-1. Follow the installation instructions
+Komodor Desktop Beta supports Mac OS and Windows
+
+### For Mac OS
+1. Download the appropriate version for your architecture:
+   1. [Intel](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/KomodorBetaIntel.dmg)
+   1. [Apple Silicon (M1/M2)](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/KomodorBetaM1.dmg)
+1. Open the downloaded DMG
+1. Move the Komodor app to Applications
+
+### For Windows
+1. Download the appropriate version for your architecture:
+   1. [64-bit](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/komodor-installer-x64.exe)
+   1. [32-bit](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/komodor-installer-ia32.exe)
 
 ## Prerequisites
 In order to use the app, you need:
