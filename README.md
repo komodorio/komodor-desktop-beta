@@ -16,7 +16,7 @@ Komodor Desktop Beta supports Mac OS and Windows
 ### For Windows
 1. Download the appropriate version for your architecture:
    1. [64-bit](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/komodor-installer-x64.exe)
-   1. [32-bit](https://github.com/komodorio/komodor-desktop-beta/releases/download/beta/komodor-installer-ia32.exe)
+   1. 32-bit coming soon
 1. Run the downloaded installer
 1. Open the application through the Desktop or Start menu shortcut
 
