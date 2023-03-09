@@ -7,8 +7,8 @@ Komodor Desktop Beta supports Mac OS and Windows
 
 ### For Mac OS
 1. Download the appropriate version for your architecture:
-   1. [Intel](https://github.com/komodorio/komodor-desktop-beta/releases/download/2023-12-16/komodor-x64.dmg)
-   1. [Apple Silicon (M1/M2)](https://github.com/komodorio/komodor-desktop-beta/releases/download/2023-12-16/komodor-arm64.dmg)
+   1. [Intel](https://github.com/komodorio/komodor-desktop-beta/releases/download/2023-12-16/komodor-0.0.22-x64-signed.dmg)
+   1. [Apple Silicon (M1/M2)](https://github.com/komodorio/komodor-desktop-beta/releases/download/2023-12-16/komodor-0.0.22-arm64-signed.dmg)
 1. Open the downloaded DMG
 1. Move the Komodor app to Applications
 1. Open the application from the Application directory
